@@ -1,0 +1,8 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "LAN7801_9JX")(type "KiCad")(uri "${KIPRJMOD}/symbols/LAN7801_9JX.kicad_sym")(options "")(descr ""))
+  (lib (name "DP83TC813RRHFRQ1")(type "KiCad")(uri "${KIPRJMOD}/symbols/DP83TC813RRHFRQ1.kicad_sym")(options "")(descr ""))
+  (lib (name "HD3SS3220IRNHT")(type "KiCad")(uri "${KIPRJMOD}/symbols/HD3SS3220IRNHT.kicad_sym")(options "")(descr ""))
+  (lib (name "ECS-250-18-33-JGN-TR")(type "KiCad")(uri "${KIPRJMOD}/symbols/ECS-250-18-33-JGN-TR.kicad_sym")(options "")(descr ""))
+  (lib (name "DLW32MH201XK2L")(type "KiCad")(uri "${KIPRJMOD}/symbols/DLW32MH201XK2L.kicad_sym")(options "")(descr ""))
+)
