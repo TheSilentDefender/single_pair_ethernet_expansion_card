@@ -8533,6 +8533,16 @@
 		)
 		(uuid "12fb9350-ab38-49b6-920d-0fc5b1dff0a9")
 	)
+	(text "Notes: Using JLC JLC04081H-7628 stackup"
+		(exclude_from_sim no)
+		(at 56.896 280.67 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "4b8be153-5876-4825-b3b9-50e5865319db")
+	)
 	(text "Mechanical mounting"
 		(exclude_from_sim no)
 		(at 364.49 246.38 0)
